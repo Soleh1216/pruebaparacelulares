@@ -1,0 +1,552 @@
+[
+  {
+    "category": "Skincare",
+    "name": "Mousse de limpieza 60g - Idraet",
+    "pricePublic": "9800",
+    "priceStudent": "980",
+    "tag": "",
+    "desc": ""
+  },
+  {
+    "category": "Pestañas",
+    "name": "Estuche para pinzas",
+    "pricePublic": "7500",
+    "priceStudent": "7500",
+    "tag": "",
+    "desc": ""
+  },
+  {
+    "name": "Espuma Micelar - Promoter Exel",
+    "pricePublic": 19900,
+    "priceStudent": 19900,
+    "desc": ""
+  },
+  {
+    "name": "Paleta jade para pegamento de pestaña",
+    "pricePublic": 1500,
+    "priceStudent": 1500,
+    "desc": ""
+  },
+  {
+    "name": "Mascarilla Hidratante aminoácidos de ceda Chelica",
+    "pricePublic": 4800,
+    "priceStudent": 4800,
+    "desc": ""
+  },
+  {
+    "name": "Mascarilla parche Colágeno labios",
+    "pricePublic": 3000,
+    "priceStudent": 3000,
+    "desc": ""
+  },
+  {
+    "name": "Masajeador facial de jade rodillo",
+    "pricePublic": 8000,
+    "priceStudent": 8000,
+    "desc": ""
+  },
+  {
+    "name": "Parche Hidrogel para Pestanas",
+    "pricePublic": 300,
+    "priceStudent": 300,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Paso 1 y 2 - The Lion Beauty",
+    "pricePublic": 3900,
+    "priceStudent": 3900,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Spray - Promoter Exel",
+    "pricePublic": 32100,
+    "priceStudent": 32100,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Cinta Adhesiva Hipoalergenica Transpore",
+    "pricePublic": 2500,
+    "priceStudent": 2500,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Cinta hipoalergenica color surtido",
+    "pricePublic": 900,
+    "priceStudent": 900,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Micro hisopos de madera 50u",
+    "pricePublic": 3000,
+    "priceStudent": 3000,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Shampoo pestañas y cejas - Lion Beauty",
+    "pricePublic": 9600,
+    "priceStudent": 9600,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Perfilador Cejas X3 Unidades Navaja Quita Vello Facial Depilador",
+    "pricePublic": 3800,
+    "priceStudent": 3800,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Bigudie shell",
+    "pricePublic": 19200,
+    "priceStudent": 19200,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Limpiador de pestañas pico curvo Gotero 150ml",
+    "pricePublic": 3100,
+    "priceStudent": 3100,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Botox - The Lion Beauty",
+    "pricePublic": 16000,
+    "priceStudent": 16000,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Adhesivo Para Bigudies Royal Stick - The Lion Beauty",
+    "pricePublic": 15500,
+    "priceStudent": 15500,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Pro Easy Gel laminador hidratante - Melania",
+    "pricePublic": 19800,
+    "priceStudent": 19800,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Wipes corazón con organizador",
+    "pricePublic": 4000,
+    "priceStudent": 4000,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Parches de silicona reutilizables",
+    "pricePublic": 10000,
+    "priceStudent": 10000,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "category": "DERMOCOSMETRIA",
+    "name": "Bigudíes Anatómicos moño curva L-D",
+    "pricePublic": "15000",
+    "priceStudent": "15000",
+    "tag": "Sin stock",
+    "desc": ""
+  },
+  {
+    "name": "Micro hisopos 50u Eloise",
+    "pricePublic": 5000,
+    "priceStudent": 5000,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Pegamento para lifting de pestañas Lomansa Original",
+    "pricePublic": 16000,
+    "priceStudent": 16000,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Puluk Tox Tox Multi Booster",
+    "pricePublic": 45000,
+    "priceStudent": 45000,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Extensión Cherimoya Tecnologicas YY 0.07D Mix (7-13MM)",
+    "pricePublic": 9200,
+    "priceStudent": 9200,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Higrómetro Digital",
+    "pricePublic": 8000,
+    "priceStudent": 8000,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Hidratante - The Lion Beauty",
+    "pricePublic": 16000,
+    "priceStudent": 16000,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Herramienta plástica scorpion para lifting",
+    "pricePublic": 2500,
+    "priceStudent": 2500,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Aplicador de make up labial básico 50 u",
+    "pricePublic": 3800,
+    "priceStudent": 3800,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Moldes SEA SHELL",
+    "pricePublic": 19800,
+    "priceStudent": 19800,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Paso 4 Monodosis 1g - The Lion Beauty",
+    "pricePublic": 2200,
+    "priceStudent": 2200,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Adhesivo para Bigudies de silicona Iconsing",
+    "pricePublic": 10000,
+    "priceStudent": 10000,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Vincha de spa cool",
+    "pricePublic": 6000,
+    "priceStudent": 6000,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Vincha de Moños Skin Care",
+    "pricePublic": 4500,
+    "priceStudent": 4500,
+    "desc": "",
+    "tag": "Sin stock"
+  },
+  {
+    "name": "Pico para adhesivo",
+    "pricePublic": 500,
+    "priceStudent": 500,
+    "desc": ""
+  },
+  {
+    "name": "cepillos de pestaña glitter COLOR SURTIDO Pack 50u",
+    "pricePublic": 4000,
+    "priceStudent": 4000,
+    "desc": ""
+  },
+  {
+    "name": "Regla calibrador para microblading cejas",
+    "pricePublic": 4800,
+    "priceStudent": 4800,
+    "desc": ""
+  },
+  {
+    "name": "Cinta transpore fina para tapping",
+    "pricePublic": 2500,
+    "priceStudent": 2500,
+    "desc": ""
+  },
+  {
+    "name": "Barbijo de Plastico Transparente",
+    "pricePublic": 2500,
+    "priceStudent": 2500,
+    "desc": ""
+  },
+  {
+    "name": "Lim Bali 50 SPF",
+    "pricePublic": 5200,
+    "priceStudent": 5200,
+    "desc": ""
+  },
+  {
+    "name": "Aplicador de make up labial 50u",
+    "pricePublic": 5000,
+    "priceStudent": 5000,
+    "desc": ""
+  },
+  {
+    "name": "Bigudie plano para técnica coreana",
+    "pricePublic": 13000,
+    "priceStudent": 13000,
+    "desc": ""
+  },
+  {
+    "name": "Fiber gel máscara para cejas MEDIUM - MELU",
+    "pricePublic": 4800,
+    "priceStudent": 4800,
+    "desc": ""
+  },
+  {
+    "name": "Ventilador eléctrico usb Handheld orejitas Charm limit",
+    "pricePublic": 15000,
+    "priceStudent": 15000,
+    "desc": ""
+  },
+  {
+    "name": "Destapador adhesivo de extensiones",
+    "pricePublic": 3000,
+    "priceStudent": 3000,
+    "desc": ""
+  },
+  {
+    "name": "Bálsamo de labios Gege Bear",
+    "pricePublic": 5500,
+    "priceStudent": 5500,
+    "desc": ""
+  },
+  {
+    "name": "Parches para laminación de cejas",
+    "pricePublic": 7500,
+    "priceStudent": 7500,
+    "desc": ""
+  },
+  {
+    "name": "Espejo para extensiones de pestañas Corazon Rosa",
+    "pricePublic": 4800,
+    "priceStudent": 4800,
+    "desc": ""
+  },
+  {
+    "name": "Temporizador",
+    "pricePublic": 8000,
+    "priceStudent": 8000,
+    "desc": ""
+  },
+  {
+    "name": "Espátula exfoliadora facial",
+    "pricePublic": 3200,
+    "priceStudent": 3200,
+    "desc": ""
+  },
+  {
+    "name": "Molde Medidas con Abrojo porta pestaña",
+    "pricePublic": 3400,
+    "priceStudent": 3400,
+    "desc": ""
+  },
+  {
+    "name": "Porta pegamento de pestañas mariposa x 10U",
+    "pricePublic": 2500,
+    "priceStudent": 2500,
+    "desc": ""
+  },
+  {
+    "name": "Cepillo mini recto para laminado de cejas 10u Charm Limit",
+    "pricePublic": 5000,
+    "priceStudent": 5000,
+    "desc": ""
+  },
+  {
+    "name": "Pincelito aplicador make up glitter pack x 50u Eloise",
+    "pricePublic": 5000,
+    "priceStudent": 5000,
+    "desc": ""
+  },
+  {
+    "name": "Bigudíes Frozen Anatómicos",
+    "pricePublic": 16000,
+    "priceStudent": 16000,
+    "desc": ""
+  },
+  {
+    "name": "Film cejas pestañas Microblading charm limit",
+    "pricePublic": 3800,
+    "priceStudent": 3800,
+    "desc": ""
+  },
+  {
+    "name": "Nano mister personajes color surtido",
+    "pricePublic": 8000,
+    "priceStudent": 8000,
+    "desc": ""
+  },
+  {
+    "name": "Balsamo Labial Vainilla Protector solar fps50 Karite",
+    "pricePublic": 5500,
+    "priceStudent": 5500,
+    "desc": ""
+  },
+  {
+    "name": "Mascarilla facial hidratante personajes surtidos",
+    "pricePublic": 4800,
+    "priceStudent": 4800,
+    "desc": ""
+  },
+  {
+    "name": "Mascarilla para pies Aloe Vera Kormesic",
+    "pricePublic": 6500,
+    "priceStudent": 6500,
+    "desc": ""
+  },
+  {
+    "name": "Cepillo masajeador capilar silicona",
+    "pricePublic": 9000,
+    "priceStudent": 9000,
+    "desc": ""
+  },
+  {
+    "name": "Porta tips piedras forma surtidos",
+    "pricePublic": 3000,
+    "priceStudent": 3000,
+    "desc": ""
+  },
+  {
+    "name": "Perfumero color surtido",
+    "pricePublic": 4500,
+    "priceStudent": 4500,
+    "desc": ""
+  },
+  {
+    "name": "Ampollas de argán",
+    "pricePublic": 4000,
+    "priceStudent": 4000,
+    "desc": ""
+  },
+  {
+    "name": "Súper eyes - Lidherma",
+    "pricePublic": 27000,
+    "priceStudent": 27000,
+    "desc": ""
+  },
+  {
+    "name": "Labial larga duracion - Mely",
+    "pricePublic": 6500,
+    "priceStudent": 6500,
+    "desc": ""
+  },
+  {
+    "name": "Lip Tint PURPLE DAY - MELÚ",
+    "pricePublic": 6100,
+    "priceStudent": 6100,
+    "desc": ""
+  },
+  {
+    "name": "Lip balm CHERRY LIPS tono CL10",
+    "pricePublic": 5200,
+    "priceStudent": 5200,
+    "desc": ""
+  },
+  {
+    "name": "Cepillo corporal Moscú",
+    "pricePublic": 28000,
+    "priceStudent": 28000,
+    "desc": ""
+  },
+  {
+    "name": "Glue Accelerator para extensiones de pestañas",
+    "pricePublic": 21000,
+    "priceStudent": 21000,
+    "desc": ""
+  },
+  {
+    "name": "Thermo Spray Reductor",
+    "pricePublic": 28800,
+    "priceStudent": 28800,
+    "desc": ""
+  },
+  {
+    "name": "Mouse Autobronceante - Royal Bronze",
+    "pricePublic": 31700,
+    "priceStudent": 31700,
+    "desc": ""
+  },
+  {
+    "name": "Pads REVERSE",
+    "pricePublic": 16800,
+    "priceStudent": 16800,
+    "desc": ""
+  },
+  {
+    "name": "ESTUCHE PARA 3 PINZAS ROSA – CUERINA ROSA",
+    "pricePublic": 4800,
+    "priceStudent": 4800,
+    "desc": ""
+  },
+  {
+    "name": "PULSERA CON PESTAÑITAS DE SILICONA PARA PINZAS",
+    "pricePublic": 6000,
+    "priceStudent": 6000,
+    "desc": ""
+  },
+  {
+    "name": "PULSERA SILICONA PARA PINZAS DE PESTAÑAS",
+    "pricePublic": 4000,
+    "priceStudent": 4000,
+    "desc": ""
+  },
+  {
+    "name": "LABIAL Y RUBOR 2 EN 1 TONO PATINS- MELU",
+    "pricePublic": 4600,
+    "priceStudent": 4600,
+    "desc": ""
+  },
+  {
+    "name": "Lente para fotos profesionales con distintos enfoques",
+    "pricePublic": 30000,
+    "priceStudent": 30000,
+    "desc": ""
+  },
+  {
+    "name": "Antifaz",
+    "pricePublic": 12000,
+    "priceStudent": 12000,
+    "desc": ""
+  },
+  {
+    "name": "Delineador de labios rojos - Pink 21",
+    "pricePublic": 5000,
+    "priceStudent": 5000,
+    "desc": ""
+  },
+  {
+    "name": "Regla Calibre de línea para microblading cejas con nivel",
+    "pricePublic": 10500,
+    "priceStudent": 10500,
+    "desc": ""
+  },
+  {
+    "name": "MICROHISOPO CON GLITTER",
+    "pricePublic": 4200,
+    "priceStudent": 4200,
+    "desc": ""
+  },
+  {
+    "name": "PESTAÑAS NAGARAKU TECNOLOGICAS 5D 0.07D MIX",
+    "pricePublic": 13200,
+    "priceStudent": 13200,
+    "desc": ""
+  },
+  {
+    "name": "Bandeja de acero para esterilizar",
+    "pricePublic": 9800,
+    "priceStudent": 9800,
+    "desc": ""
+  }
+]
