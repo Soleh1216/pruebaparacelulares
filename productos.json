@@ -1,0 +1,22 @@
+[
+  {
+    "category": "DERMOCOSMETRIA",
+    "name": "Mousse de limpieza 60g - Idraet",
+    "pricePublic": "9800",
+    "priceStudent": "980",
+    "tag": "",
+    "desc": "ideal para todos los días"
+  },
+  {
+    "name": "Espuma Micelar - Promoter Exel",
+    "pricePublic": 19900,
+    "priceStudent": 19900,
+    "desc": ""
+  },
+  {
+    "name": "Súper eyes - Lidherma",
+    "pricePublic": 27000,
+    "priceStudent": 27000,
+    "desc": ""
+  }
+]
