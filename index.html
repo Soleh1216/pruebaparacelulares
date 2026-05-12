@@ -205,7 +205,7 @@
                         <span>Total</span><span id="totalPrice">$0</span>
                     </div>
                     <button class="btn btn-sage" onclick="sendWhatsApp()">Enviar por WhatsApp</button>
-                    <button onclick="showCategories()" style="background:none; border:none; width:100%; margin-top:15px; color:var(--muted); cursor:pointer; font-size:12px; text-decoration:underline;">← Volver al Inicio</button>
+                    <button onclick="showCategories()" style="background:none; border:none; width:100%; margin-top:15px; color:var(--muted); cursor:pointer; font-size:12px; text-decoration:underline;">← Volver a Categorías</button>
                 </div>
             </aside>
         </div>
@@ -391,10 +391,8 @@ function openCategory(category) {
             if(document.getElementById("passwordInput").value === alumnaPassword) initFlow('students');
             else alert("Contraseña incorrecta");
         }
-        function goHome() {
-    localStorage.clear(); // Borra todo lo guardado
-    location.reload();
-}
+        function goHome() { location.reload(); }
+
         function sendWhatsApp() {
             if(cart.length === 0) return;
             let msg = `*Pedido de Tú Belleza*%0A_Catálogo: ${currentSection === 'public' ? 'Público' : 'Alumnas'}_%0A%0A`;
