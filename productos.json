@@ -1,0 +1,604 @@
+[
+  {
+    "name": "Pico para adhesivo",
+    "pricePublic": 500,
+    "priceStudent": 500,
+    "desc": "Repuesto práctico para colocar en adhesivos y dosificar mejor el producto durante el trabajo profesional.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Cepillos de pestaña glitter color surtido Pack 50u",
+    "pricePublic": 4000,
+    "priceStudent": 4000,
+    "desc": "Pack de cepillitos descartables para peinar pestañas y cejas durante tratamientos o para uso personal.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Regla calibrador para microblading cejas",
+    "pricePublic": 4800,
+    "priceStudent": 4800,
+    "desc": "Herramienta de medición ideal para diseñar cejas con mayor simetría y precisión.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Cinta transpore fina para tapping",
+    "pricePublic": 2500,
+    "priceStudent": 2500,
+    "desc": "Cinta fina y práctica para trabajar con mayor precisión en servicios de pestañas, cejas o estética.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Barbijo de Plástico Transparente",
+    "pricePublic": 2500,
+    "priceStudent": 2500,
+    "desc": "Protector transparente cómodo para atención profesional, ideal para gabinete o uso estético.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Lim Bali 50 SPF",
+    "pricePublic": 5200,
+    "priceStudent": 5200,
+    "desc": "Protector labial con FPS 50, ideal para cuidar los labios del sol y la resequedad.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Aplicador de make up labial 50u",
+    "pricePublic": 5000,
+    "priceStudent": 5000,
+    "desc": "Aplicadores descartables para labiales, gloss, tintas o productos de maquillaje.",
+    "category": "Maquillaje"
+  },
+  {
+    "name": "Bigudie plano para técnica coreana",
+    "pricePublic": 13000,
+    "priceStudent": 13000,
+    "desc": "Molde plano ideal para realizar lifting de pestañas con técnica coreana.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Fiber gel máscara para cejas MEDIUM - MELU",
+    "pricePublic": 4800,
+    "priceStudent": 4800,
+    "desc": "Gel con color para peinar, definir y dar efecto de mayor volumen en las cejas.",
+    "category": "Maquillaje"
+  },
+  {
+    "name": "Ventilador eléctrico USB Handheld orejitas Charm Limit",
+    "pricePublic": 15000,
+    "priceStudent": 15000,
+    "desc": "Mini ventilador portátil USB, ideal para acelerar el secado en tratamientos de pestañas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Destapador adhesivo de extensiones",
+    "pricePublic": 3000,
+    "priceStudent": 3000,
+    "desc": "Herramienta práctica para destapar picos de adhesivos y evitar desperdicio de producto.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Bálsamo de labios Gege Bear",
+    "pricePublic": 5500,
+    "priceStudent": 5500,
+    "desc": "Bálsamo labial hidratante con diseño cute, ideal para llevar en la cartera y usar todos los días.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Parches para laminación de cejas",
+    "pricePublic": 7500,
+    "priceStudent": 7500,
+    "desc": "Parches auxiliares para trabajar cejas durante laminado o tratamientos profesionales.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Espejo para extensiones de pestañas Corazón Rosa",
+    "pricePublic": 4800,
+    "priceStudent": 4800,
+    "desc": "Espejo pequeño ideal para revisar extensiones de pestañas desde distintos ángulos.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Temporizador",
+    "pricePublic": 8000,
+    "priceStudent": 8000,
+    "desc": "Timer práctico para controlar los tiempos de exposición en tratamientos profesionales.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Espátula exfoliadora facial",
+    "pricePublic": 3200,
+    "priceStudent": 3200,
+    "desc": "Espátula manual para aplicar productos, retirar mascarillas o acompañar rutinas faciales.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Molde Medidas con Abrojo porta pestaña",
+    "pricePublic": 3400,
+    "priceStudent": 3400,
+    "desc": "Soporte con medidas para organizar pestañas durante servicios de extensión.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Porta pegamento de pestañas mariposa x 10u",
+    "pricePublic": 2500,
+    "priceStudent": 2500,
+    "desc": "Porta adhesivo descartable en formato mariposa para trabajos de pestañas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Cepillo mini recto para laminado de cejas 10u Charm Limit",
+    "pricePublic": 5000,
+    "priceStudent": 5000,
+    "desc": "Cepillos mini para peinar, acomodar y trabajar cejas durante laminado o perfilado.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Pincelito aplicador make up glitter pack x 50u Eloise",
+    "pricePublic": 5000,
+    "priceStudent": 5000,
+    "desc": "Pack de aplicadores pequeños para maquillaje, glitter, pigmentos o productos labiales.",
+    "category": "Maquillaje"
+  },
+  {
+    "name": "Bigudíes Frozen Anatómicos",
+    "pricePublic": 16000,
+    "priceStudent": 16000,
+    "desc": "Moldes anatómicos para lifting de pestañas, pensados para lograr una curvatura prolija.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Film cejas pestañas Microblading Charm Limit",
+    "pricePublic": 3800,
+    "priceStudent": 3800,
+    "desc": "Film osmótico para procedimientos de cejas, pestañas o microblading.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Nano mister personajes color surtido",
+    "pricePublic": 8000,
+    "priceStudent": 8000,
+    "desc": "Vaporizador portátil para hidratar o ayudar en el secado de adhesivos de pestañas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Bálsamo Labial Vainilla Protector Solar FPS50 Karité",
+    "pricePublic": 5500,
+    "priceStudent": 5500,
+    "desc": "Bálsamo labial con aroma a vainilla, karité y protección solar FPS 50.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Mascarilla facial hidratante personajes surtidos",
+    "pricePublic": 4800,
+    "priceStudent": 4800,
+    "desc": "Mascarilla facial hidratante con diseños variados, ideal para sumar a la rutina de skincare.",
+    "category": "Cosmética"
+  },
+  {
+    "name": "Mascarilla para pies Aloe Vera Kormesic",
+    "pricePublic": 6500,
+    "priceStudent": 6500,
+    "desc": "Mascarilla hidratante para pies con aloe vera, ideal para suavizar y nutrir la piel.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Cepillo masajeador capilar silicona",
+    "pricePublic": 9000,
+    "priceStudent": 9000,
+    "desc": "Cepillo de silicona para masajear el cuero cabelludo y acompañar la limpieza capilar.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Porta tips piedras forma surtidos",
+    "pricePublic": 3000,
+    "priceStudent": 3000,
+    "desc": "Accesorio organizador para tips, piedras o decoración de uñas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Perfumero color surtido",
+    "pricePublic": 4500,
+    "priceStudent": 4500,
+    "desc": "Envase portátil para llevar perfume en cartera, bolso o neceser.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Ampollas de argán",
+    "pricePublic": 4000,
+    "priceStudent": 4000,
+    "desc": "Ampollas capilares con argán para aportar nutrición, brillo y suavidad al cabello.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Súper eyes - Lidherma",
+    "pricePublic": 27000,
+    "priceStudent": 27000,
+    "desc": "Producto de cuidado para la zona del contorno de ojos, ideal para complementar la rutina facial.",
+    "category": "Cosmética"
+  },
+  {
+    "name": "Labial larga duración - Mely",
+    "pricePublic": 6500,
+    "priceStudent": 6500,
+    "desc": "Labial de larga duración para maquillaje diario o profesional.",
+    "category": "Maquillaje"
+  },
+  {
+    "name": "Lip Tint PURPLE DAY - MELÚ",
+    "pricePublic": 6100,
+    "priceStudent": 6100,
+    "desc": "Tinta labial de acabado liviano para dar color natural y duradero.",
+    "category": "Maquillaje"
+  },
+  {
+    "name": "Lip balm CHERRY LIPS tono CL10",
+    "pricePublic": 5200,
+    "priceStudent": 5200,
+    "desc": "Bálsamo labial con color para hidratar y aportar un tono suave a los labios.",
+    "category": "Maquillaje"
+  },
+  {
+    "name": "Cepillo corporal Moscú",
+    "pricePublic": 28000,
+    "priceStudent": 28000,
+    "desc": "Cepillo corporal ideal para exfoliación en seco o rutina de cuidado corporal.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Glue Accelerator para extensiones de pestañas",
+    "pricePublic": 21000,
+    "priceStudent": 21000,
+    "desc": "Acelerador de adhesivo para extensiones de pestañas, ideal para uso profesional.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Thermo Spray Reductor",
+    "pricePublic": 28800,
+    "priceStudent": 28800,
+    "desc": "Spray corporal con efecto térmico, pensado para acompañar rutinas reductoras.",
+    "category": "Cosmética"
+  },
+  {
+    "name": "Mouse Autobronceante - Royal Bronze",
+    "pricePublic": 31700,
+    "priceStudent": 31700,
+    "desc": "Autobronceante en mousse para lograr un tono bronceado sin exposición solar.",
+    "category": "Cosmética"
+  },
+  {
+    "name": "Pads REVERSE",
+    "pricePublic": 16800,
+    "priceStudent": 16800,
+    "desc": "Pads profesionales para tratamientos de pestañas o cejas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Estuche para 3 pinzas rosa - cuerina rosa",
+    "pricePublic": 4800,
+    "priceStudent": 4800,
+    "desc": "Estuche de cuerina para guardar y proteger hasta 3 pinzas profesionales.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Pulsera con pestañitas de silicona para pinzas",
+    "pricePublic": 6000,
+    "priceStudent": 6000,
+    "desc": "Accesorio de silicona para organizar pinzas durante servicios de pestañas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Pulsera silicona para pinzas de pestañas",
+    "pricePublic": 4000,
+    "priceStudent": 4000,
+    "desc": "Pulsera organizadora para tener las pinzas a mano durante la atención.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Labial y rubor 2 en 1 tono Patins - MELU",
+    "pricePublic": 4600,
+    "priceStudent": 4600,
+    "desc": "Producto multifunción que puede usarse como labial y rubor.",
+    "category": "Maquillaje"
+  },
+  {
+    "name": "Lente para fotos profesionales con distintos enfoques",
+    "pricePublic": 30000,
+    "priceStudent": 30000,
+    "desc": "Lente para celular pensada para mejorar fotos de trabajos profesionales y contenido para redes.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Antifaz",
+    "pricePublic": 12000,
+    "priceStudent": 12000,
+    "desc": "Antifaz cómodo para descanso, spa o rutinas de relajación.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Delineador de labios rojos - Pink 21",
+    "pricePublic": 5000,
+    "priceStudent": 5000,
+    "desc": "Delineador labial rojo para definir el contorno y mejorar la duración del labial.",
+    "category": "Maquillaje"
+  },
+  {
+    "name": "Regla Calibre de línea para microblading cejas con nivel",
+    "pricePublic": 10500,
+    "priceStudent": 10500,
+    "desc": "Regla con nivel para diseño de cejas, ideal para trabajos de microblading o perfilado.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Microhisopo con glitter",
+    "pricePublic": 4200,
+    "priceStudent": 4200,
+    "desc": "Microhisopos para limpieza o aplicación precisa de productos.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Pestañas Nagaraku tecnológicas 5D 0.07D MIX",
+    "pricePublic": 13200,
+    "priceStudent": 13200,
+    "desc": "Bandeja de pestañas para extensiones, ideal para técnica de volumen 5D.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Bandeja de acero para esterilizar",
+    "pricePublic": 9800,
+    "priceStudent": 9800,
+    "desc": "Bandeja de acero para organizar y esterilizar herramientas profesionales.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Mousse de limpieza 60g - Idraet",
+    "pricePublic": 9800,
+    "priceStudent": 9800,
+    "desc": "Mousse facial de limpieza para rutina diaria o preparación de la piel antes de tratamientos.",
+    "category": "Cosmética"
+  },
+  {
+    "name": "Estuche para pinzas",
+    "pricePublic": 7500,
+    "priceStudent": 7500,
+    "desc": "Estuche protector para guardar pinzas profesionales de forma segura y ordenada.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Espuma Micelar - Promoter Exel",
+    "pricePublic": 19900,
+    "priceStudent": 19900,
+    "desc": "Espuma micelar para limpiar la piel de manera suave, práctica y efectiva.",
+    "category": "Cosmética"
+  },
+  {
+    "name": "Paleta jade para pegamento de pestaña",
+    "pricePublic": 1500,
+    "priceStudent": 1500,
+    "desc": "Paleta de jade para conservar el adhesivo fresco durante extensiones de pestañas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Mascarilla Hidratante aminoácidos de ceda Chelica",
+    "pricePublic": 4800,
+    "priceStudent": 4800,
+    "desc": "Mascarilla facial hidratante con aminoácidos, ideal para aportar suavidad y frescura.",
+    "category": "Cosmética"
+  },
+  {
+    "name": "Mascarilla parche Colágeno labios",
+    "pricePublic": 3000,
+    "priceStudent": 3000,
+    "desc": "Parche labial con colágeno para hidratar y mejorar la apariencia de los labios.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Masajeador facial de jade rodillo",
+    "pricePublic": 8000,
+    "priceStudent": 8000,
+    "desc": "Rodillo facial de jade para masajes, drenaje y rutina de skincare.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Parche Hidrogel para pestañas",
+    "pricePublic": 300,
+    "priceStudent": 300,
+    "desc": "Parche de hidrogel para proteger la zona inferior del ojo durante extensiones de pestañas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Paso 1 y 2 - The Lion Beauty",
+    "pricePublic": 3900,
+    "priceStudent": 3900,
+    "desc": "Productos profesionales para realizar procedimientos de lifting o laminado de pestañas y cejas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Spray - Promoter Exel",
+    "pricePublic": 32100,
+    "priceStudent": 32100,
+    "desc": "Spray profesional de uso cosmético para complementar tratamientos faciales o corporales.",
+    "category": "Cosmética"
+  },
+  {
+    "name": "Cinta Adhesiva Hipoalergénica Transpore",
+    "pricePublic": 2500,
+    "priceStudent": 2500,
+    "desc": "Cinta hipoalergénica para procedimientos de pestañas, cejas o trabajos estéticos.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Cinta hipoalergénica color surtido",
+    "pricePublic": 900,
+    "priceStudent": 900,
+    "desc": "Cinta suave para piel sensible, útil en trabajos profesionales de estética.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Micro hisopos de madera 50u",
+    "pricePublic": 3000,
+    "priceStudent": 3000,
+    "desc": "Microhisopos de madera para aplicar o retirar producto con precisión.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Shampoo pestañas y cejas - Lion Beauty",
+    "pricePublic": 9600,
+    "priceStudent": 9600,
+    "desc": "Shampoo para limpiar pestañas y cejas antes o después de tratamientos.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Perfilador Cejas x3 Unidades Navaja Quita Vello Facial Depilador",
+    "pricePublic": 3800,
+    "priceStudent": 3800,
+    "desc": "Set de navajas perfiladoras para cejas y vello facial.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Bigudie Shell",
+    "pricePublic": 19200,
+    "priceStudent": 19200,
+    "desc": "Moldes tipo shell para lifting de pestañas, ideales para trabajos profesionales.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Limpiador de pestañas pico curvo Gotero 150ml",
+    "pricePublic": 3100,
+    "priceStudent": 3100,
+    "desc": "Botella limpiadora con pico curvo para higiene de pestañas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Botox - The Lion Beauty",
+    "pricePublic": 16000,
+    "priceStudent": 16000,
+    "desc": "Producto profesional para tratamiento de nutrición o reparación en pestañas y cejas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Adhesivo Para Bigudies Royal Stick - The Lion Beauty",
+    "pricePublic": 15500,
+    "priceStudent": 15500,
+    "desc": "Adhesivo profesional para fijar pestañas sobre bigudíes durante lifting.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Pro Easy Gel laminador hidratante - Melania",
+    "pricePublic": 19800,
+    "priceStudent": 19800,
+    "desc": "Gel laminador hidratante para cejas o pestañas, de uso profesional.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Wipes corazón con organizador",
+    "pricePublic": 4000,
+    "priceStudent": 4000,
+    "desc": "Wipes o toallitas con organizador para limpieza durante servicios profesionales.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Parches de silicona reutilizables",
+    "pricePublic": 10000,
+    "priceStudent": 10000,
+    "desc": "Parches reutilizables de silicona para tratamientos de pestañas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Bigudíes Anatómicos moño curva L/D",
+    "pricePublic": 15000,
+    "priceStudent": 15000,
+    "desc": "Bigudíes anatómicos para lograr curvaturas definidas en lifting de pestañas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Micro hisopos 50u Eloise",
+    "pricePublic": 5000,
+    "priceStudent": 5000,
+    "desc": "Microhisopos descartables para aplicación precisa en servicios profesionales.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Pegamento para lifting de pestañas Lomansa Original",
+    "pricePublic": 16000,
+    "priceStudent": 16000,
+    "desc": "Pegamento profesional para fijar pestañas durante el procedimiento de lifting.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Puluk Tox Tox Multi Booster",
+    "pricePublic": 45000,
+    "priceStudent": 45000,
+    "desc": "Booster profesional para tratamientos de belleza o cuidado intensivo.",
+    "category": "Cosmética"
+  },
+  {
+    "name": "Extensión Cherimoya Tecnológicas YY 0.07D Mix 7-13mm",
+    "pricePublic": 9200,
+    "priceStudent": 9200,
+    "desc": "Bandeja de extensiones YY para técnica de volumen y efecto más tupido.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Higrómetro Digital",
+    "pricePublic": 8000,
+    "priceStudent": 8000,
+    "desc": "Medidor de humedad y temperatura, ideal para controlar el ambiente de trabajo en extensiones.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Hidratante - The Lion Beauty",
+    "pricePublic": 16000,
+    "priceStudent": 16000,
+    "desc": "Producto hidratante profesional para complementar lifting o laminado.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Herramienta plástica Scorpion para lifting",
+    "pricePublic": 2500,
+    "priceStudent": 2500,
+    "desc": "Herramienta plástica para acomodar pestañas durante el lifting.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Aplicador de make up labial básico 50u",
+    "pricePublic": 3800,
+    "priceStudent": 3800,
+    "desc": "Aplicadores descartables básicos para labiales, gloss o tintas.",
+    "category": "Maquillaje"
+  },
+  {
+    "name": "Moldes SEA SHELL",
+    "pricePublic": 19800,
+    "priceStudent": 19800,
+    "desc": "Moldes profesionales para lifting de pestañas con diseño tipo sea shell.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Paso 4 Monodosis 1g - The Lion Beauty",
+    "pricePublic": 2200,
+    "priceStudent": 2200,
+    "desc": "Monodosis profesional para etapa final de tratamiento de pestañas o cejas.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Adhesivo para Bigudies de silicona Iconsing",
+    "pricePublic": 10000,
+    "priceStudent": 10000,
+    "desc": "Adhesivo para fijar bigudíes de silicona durante el procedimiento de lifting.",
+    "category": "Insumos"
+  },
+  {
+    "name": "Vincha de spa cool",
+    "pricePublic": 6000,
+    "priceStudent": 6000,
+    "desc": "Vincha para retirar el cabello del rostro durante skincare o tratamientos faciales.",
+    "category": "Cuidado Personal"
+  },
+  {
+    "name": "Vincha de Moños Skin Care",
+    "pricePublic": 4500,
+    "priceStudent": 4500,
+    "desc": "Vincha estética con moños para rutinas de skincare o uso en gabinete.",
+    "category": "Cuidado Personal"
+  }
+]
