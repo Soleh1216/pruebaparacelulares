@@ -6,6 +6,13 @@
     "desc": "Repuesto práctico para colocar en adhesivos y dosificar mejor el producto durante el trabajo profesional.",
     "category": "Insumos"
   },
+   {
+    "name": "Nivel I",
+    "pricePublic": 50000,
+    "priceStudent": 40000,
+    "desc": "segun tu objetivo en el gimnasio",
+    "category": "Planes deportivos"
+  },
   {
     "name": "Cepillos de pestaña glitter color surtido Pack 50u",
     "pricePublic": 4000,
